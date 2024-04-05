@@ -6,7 +6,7 @@ import openpyxl
 import os
 #import plotly.graph_objects as go
 #from plotly.subplots import make_subplots
-#import numpy as np
+import numpy as np
 from datetime import datetime
 from io import BytesIO
 
